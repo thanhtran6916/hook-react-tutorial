@@ -1,10 +1,10 @@
 import './App.css';
-import Toggle from './component/useEffect';
+import UseMemo from './component/UseMemo';
 
 function App() {
   return (
     <div className="App">
-      <Toggle />
+      <UseMemo />
     </div>
   );
 }
